@@ -1,6 +1,6 @@
-Flycheck-wordlint.el provides flycheck support for the Wordlint program written
-in Haskell
-[https://github.com/gbgar/Wordlint](https://github.com/gbgar/Wordlint).
+Flycheck-wordlint.el provides flycheck support for the Wordlint
+program written in Haskell
+([https://github.com/gbgar/Wordlint](https://github.com/gbgar/Wordlint)).
 
 #Installation
 
@@ -62,5 +62,5 @@ Emacs' perfomance.
 #Use
 
 Flycheck-wordlint.el is a flycheck syntax checker, and use follows normal
-flycheck use, except where noted above.
+flycheck conventions, except where noted above.
 
